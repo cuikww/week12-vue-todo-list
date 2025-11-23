@@ -21,7 +21,7 @@ Aplikasi memiliki fitur utama:
 ### 1. Screenshot Hasil Program
 
 
-![Tampilan Aplikasi](![alt text](todoVue_f1d022049\image.png))
+![Tampilan Aplikasi](![alt text](todoVue_f1d022049/image.png))
 
 
 ### 2. Penjelasan Singkat
