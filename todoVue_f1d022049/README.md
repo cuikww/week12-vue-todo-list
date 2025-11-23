@@ -20,11 +20,9 @@ Aplikasi memiliki fitur utama:
 
 ### 1. Screenshot Hasil Program
 
-> *[Panduan: Masukkan gambar screenshot aplikasi Anda di sini. Anda bisa mengupload gambar ke folder project lalu link-kan seperti format di bawah, atau drag-and-drop jika mengedit langsung di GitHub]*
 
 ![Tampilan Aplikasi](![alt text](image.png))
 
-*(Pastikan Anda menyertakan screenshot saat list kosong dan saat ada isinya)*
 
 ### 2. Penjelasan Singkat
 
